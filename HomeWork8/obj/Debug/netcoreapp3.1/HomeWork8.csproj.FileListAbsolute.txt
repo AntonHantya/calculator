@@ -1,0 +1,13 @@
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.exe
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.deps.json
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.runtimeconfig.json
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.runtimeconfig.dev.json
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.dll
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.pdb
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.AssemblyInfo.cs
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.dll
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.pdb
+C:\Users\Антон\Desktop\C#\HomeWork8\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.genruntimeconfig.cache
